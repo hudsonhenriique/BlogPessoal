@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using PernalBlog.Repositories;
+using PersonalBlog.Repositories;
 using PersonalBlog.Data;
 using PersonalBlog.Models;
 using System.Collections;

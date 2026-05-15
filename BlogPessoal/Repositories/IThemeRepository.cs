@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace PernalBlog.Repositories
+namespace PersonalBlog.Repositories
 {
     public interface IThemeRepository
     {
